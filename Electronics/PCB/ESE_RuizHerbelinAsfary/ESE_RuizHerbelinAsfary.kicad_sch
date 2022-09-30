@@ -1,0 +1,73 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 96b31f30-3206-4871-946c-6f36a87fadfe)
+
+  (paper "A4")
+
+  (title_block
+    (title "ESE_RuizHerbelinAsfary")
+    (date "2022-09-30")
+    (rev "0")
+    (company "ENSEA")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 34.29 33.02) (size 74.93 53.34) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 2924da36-dbac-4d9a-b64c-88077c1fc53b)
+    (property "Sheet name" "Sensor" (id 0) (at 34.29 32.3084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "Sensor.kicad_sch" (id 1) (at 34.29 86.9446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 146.05 107.95) (size 87.63 52.07) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 40bbd4bc-312d-49bd-88f6-2ab9dae3d019)
+    (property "Sheet name" "Actuator" (id 0) (at 146.05 107.2384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "Actuator.kicad_sch" (id 1) (at 146.05 160.6046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 33.02 107.95) (size 77.47 58.42) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 5d000e30-c5eb-4f4a-84e9-8fa63e8c29a0)
+    (property "Sheet name" "Power_Supply" (id 0) (at 33.02 107.2384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "Power_Supply.kicad_sch" (id 1) (at 33.02 166.9546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 146.05 31.75) (size 88.9 55.88) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 6b2f643a-955a-47ef-920e-70e4f09a6662)
+    (property "Sheet name" "STM32" (id 0) (at 146.05 31.0384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "STM32.kicad_sch" (id 1) (at 146.05 88.2146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+    (path "/2924da36-dbac-4d9a-b64c-88077c1fc53b" (page "2"))
+    (path "/6b2f643a-955a-47ef-920e-70e4f09a6662" (page "3"))
+    (path "/5d000e30-c5eb-4f4a-84e9-8fa63e8c29a0" (page "4"))
+    (path "/40bbd4bc-312d-49bd-88f6-2ab9dae3d019" (page "5"))
+  )
+)
