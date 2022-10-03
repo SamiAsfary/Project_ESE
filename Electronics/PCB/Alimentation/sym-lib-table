@@ -1,5 +1,0 @@
-(sym_lib_table
-  (lib (name "MIC5317_Reg3V")(type "KiCad")(uri "${KIPRJMOD}/Librairies_perso/MIC5317_Reg3V.kicad_sym")(options "")(descr ""))
-  (lib (name "AZ1117_Reg5V")(type "KiCad")(uri "${KIPRJMOD}/Librairies_perso/AZ1117_Reg5V.kicad_sym")(options "")(descr ""))
-  (lib (name "ZXBM5210_DriverMoteur")(type "KiCad")(uri "${KIPRJMOD}/Librairies_perso/ZXBM5210_DriverMoteur.kicad_sym")(options "")(descr ""))
-)
