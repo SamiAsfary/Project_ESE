@@ -70,4 +70,10 @@
     (path "/5d000e30-c5eb-4f4a-84e9-8fa63e8c29a0" (page "4"))
     (path "/40bbd4bc-312d-49bd-88f6-2ab9dae3d019" (page "5"))
   )
+
+  (symbol_instances
+    (path "/6b2f643a-955a-47ef-920e-70e4f09a6662/8f64af91-8855-4e8d-be06-dca17dcb8d9a"
+      (reference "U?") (unit 1) (value "STM32G070RBTx") (footprint "")
+    )
+  )
 )
