@@ -467,7 +467,7 @@
   (no_connect (at 191.77 24.13) (uuid ac47377e-06fd-473c-8f26-370893c5419f))
   (no_connect (at 199.39 24.13) (uuid ad69dfc4-6b15-49b8-966b-6bbda8894d5b))
   (no_connect (at 266.7 73.66) (uuid ad8ff0af-57ee-4525-8743-e577caa2dd6a))
-  (no_connect (at 266.7 71.12) (uuid ad8ff0af-57ee-4525-8743-e577caa2dd6a))
+  (no_connect (at 266.7 71.12) (uuid ad8ff0af-57ee-4525-8743-e577caa2dd6b))
   (no_connect (at 245.11 24.13) (uuid b1a6b27d-bae2-46bb-a512-8365c76dd7fc))
   (no_connect (at 266.7 45.72) (uuid b8b2442c-1c73-4659-8265-d00defe91fdc))
   (no_connect (at 204.47 24.13) (uuid bb1b3081-94c3-45a8-b16e-c48f4de216dc))
@@ -1059,14 +1059,14 @@
     )
   )
 
-  (sheet (at 82.55 91.44) (size 77.47 58.42) (fields_autoplaced)
+  (sheet (at 82.55 91.44) (size 76.2 52.07) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
     (uuid 5d000e30-c5eb-4f4a-84e9-8fa63e8c29a0)
     (property "Sheet name" "Power_Supply" (id 0) (at 82.55 90.7284 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheet file" "Power_Supply.kicad_sch" (id 1) (at 82.55 150.4446 0)
+    (property "Sheet file" "Power_Supply.kicad_sch" (id 1) (at 82.55 144.0946 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
   )
@@ -1631,6 +1631,30 @@
     )
     (path "/6b2f643a-955a-47ef-920e-70e4f09a6662/dcfa9df2-f755-4fd0-a76a-d7c97ee2abfd"
       (reference "JP304") (unit 1) (value "SolderJumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
+    )
+    (path "/40bbd4bc-312d-49bd-88f6-2ab9dae3d019/5dc02104-21f7-4f53-9061-38b6726af5c5"
+      (reference "JP501") (unit 1) (value "SolderJumper_2_Open") (footprint "")
+    )
+    (path "/40bbd4bc-312d-49bd-88f6-2ab9dae3d019/54a8f4e5-28a8-4fc1-90d3-f20d46e96ad6"
+      (reference "JP502") (unit 1) (value "SolderJumper_2_Open") (footprint "")
+    )
+    (path "/40bbd4bc-312d-49bd-88f6-2ab9dae3d019/bc740fd3-668f-4267-ac36-312e4e5fa39b"
+      (reference "JP503") (unit 1) (value "SolderJumper_2_Open") (footprint "")
+    )
+    (path "/40bbd4bc-312d-49bd-88f6-2ab9dae3d019/83365208-79ca-41b0-93fa-216402934a32"
+      (reference "JP504") (unit 1) (value "SolderJumper_2_Open") (footprint "")
+    )
+    (path "/40bbd4bc-312d-49bd-88f6-2ab9dae3d019/8659013f-857b-45d1-95b7-d7905afd2a1a"
+      (reference "JP505") (unit 1) (value "SolderJumper_2_Open") (footprint "")
+    )
+    (path "/40bbd4bc-312d-49bd-88f6-2ab9dae3d019/a0cccba3-27a4-4ade-bfe9-13adaf4125e9"
+      (reference "JP506") (unit 1) (value "SolderJumper_2_Open") (footprint "")
+    )
+    (path "/40bbd4bc-312d-49bd-88f6-2ab9dae3d019/a5f7af30-ad0f-4f3a-ab85-fb2520afcaa8"
+      (reference "JP507") (unit 1) (value "SolderJumper_2_Open") (footprint "")
+    )
+    (path "/40bbd4bc-312d-49bd-88f6-2ab9dae3d019/6d9ec327-a8f1-4d49-b44f-b2ca5f46cbe0"
+      (reference "JP508") (unit 1) (value "SolderJumper_2_Open") (footprint "")
     )
     (path "/6b2f643a-955a-47ef-920e-70e4f09a6662/29b03a20-4b8e-4936-9a55-9ac0bf668a19"
       (reference "L301") (unit 1) (value "600R@100MHz") (footprint "")
